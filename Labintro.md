@@ -24,26 +24,26 @@ To get a better understanding of your lab resources and credentials, navigate to
  
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Top right corner.
 
-    ![](../Labs/Images/image-200.jpg)    
+ ![](./media/env.png)  
 
 ## Managing Your Virtual Machine
  
 Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
 
-    ![](../Labs/Images/image002.jpg)
+  ![](./media/res.png)
 
 
 ## **Lab Duration Extension**
 
 1. To extend the duration of the lab, kindly click the **Hourglass** icon in the top right corner of the lab environment. 
 
-    ![](./images/gext.png)
+   ![](./media/gext.png)
 
     >**Note:** You will get the **Hourglass** icon when 15 minutes are remaining in the lab.
 
 2. Click **OK** to extend your lab duration.
  
-   ![](./images/gext2.png)
+   ![](./media/gext2.png)
 
 3. If you have not extended the duration prior to when the lab is about to end, a pop-up will appear, giving you the option to extend. Click **OK** to proceed. 
  
@@ -52,30 +52,25 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
 1. In the virtual machine (VM) on the left, click on the Azure Portal as shown below.
 
-    ![](../Labs/Images/azure.png)
+    ![](./media/sc900-image-1.png)
 
 1. On **Sign in to Microsoft Azure** blade, you will see a login screen, in that enter the following email/username and then click on **Next**. 
     * Email/Username: <inject key="AzureAdUserEmail"></inject>
 
-     ![](../Labs/Images/image7.png)
+     ![](./media/sc900-image-2.png)
      
 1. Now enter the password and click on Sign in.
    * Password: <inject key="AzureAdUserPassword"></inject>
   
-    ![](../Labs/Images/image8.png)
         
-1. If you see the pop-up **Action Required**, click **Ask Later**.
-   
-    ![](../Labs/Images/asklater.png)
+4. If a **Action Required** window appears, click on **Ask later**.
 
-1. First-time users are often prompted to Stay Signed In, if you see any such pop-up, click on No.
-
-1. If a **Welcome to Microsoft Azure** popup window appears, click Maybe Later to skip the tour.
-    
-    ![](../Labs/Images/maybelater.png)    
-    
-1. Click on **Next** from the bottom right and follow the instructions to perform the lab.
-
-    ![](../Labs/Images/image-901.jpg)
+5. If prompted to stay signed in, you can click "No."
+ 
+6. If a **Welcome to Microsoft Azure** pop-up window appears, simply click "Maybe Later" to skip the tour.
+ 
+7. Click "Next" from the bottom right corner to embark on your Lab journey!
+ 
+     ![](./media/sc900-image(3).png)
  
 Now you're all set to explore the powerful world of technology. Feel free to reach out if you have any questions along the way. Enjoy your workshop!
