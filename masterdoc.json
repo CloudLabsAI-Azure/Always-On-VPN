@@ -10,6 +10,18 @@
       {
         "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Always-On-VPN/main/01.md",
         "Order": 2
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Always-On-VPN/main/02.md",
+        "Order": 3
+      },      
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Always-On-VPN/main/03.md",
+        "Order": 4
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Always-On-VPN/main/04.md",
+        "Order": 5
       }
     ]
   }
