@@ -8,8 +8,6 @@ Welcome to your Always On VPN: Workshop
 
 Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
 
-![](./images/labguide(1).png)
-
 ### Virtual Machine & Lab Guide
 
 Your virtual machine is your workhorse throughout the workshop. The lab guide is your roadmap to success.
